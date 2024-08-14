@@ -1,0 +1,35 @@
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Application.deps.json
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Application.dll
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Application.pdb
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.AssemblyInfo.cs
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.dll
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\refint\AppAcademy.Application.dll
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.pdb
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\ref\AppAcademy.Application.dll
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Core.dll
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Data.dll
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Data.pdb
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Core.pdb
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.csproj.CopyComplete
+C:\Users\Owner\Desktop\AppAcademy\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.sourcelink.json
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Application.deps.json
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Application.dll
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Application.pdb
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Core.dll
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Data.dll
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Data.pdb
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\bin\Debug\net8.0\AppAcademy.Core.pdb
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.csproj.AssemblyReference.cache
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.AssemblyInfoInputs.cache
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.AssemblyInfo.cs
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.csproj.CoreCompileInputs.cache
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\AppAcade.7365F903.Up2Date
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.dll
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\refint\AppAcademy.Application.dll
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\AppAcademy.Application.pdb
+C:\Users\Feteli Isgenderov\Desktop\AppAcademyTask\AppAcademy.Application\obj\Debug\net8.0\ref\AppAcademy.Application.dll
